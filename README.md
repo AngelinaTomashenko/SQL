@@ -9,3 +9,5 @@
 - COUNT
 - LIKE
 - BETWEEN
+- Join (left, rigt, inner)
+## Database SQL
